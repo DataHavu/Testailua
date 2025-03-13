@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ohjeet/kayttojarjestelmat/python/Testailua.md",
+                "file": "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testailua"
+              "title": "Kuinka tulostaa Hello World"
             }
           }
         ],
@@ -407,8 +407,8 @@
   },
   "active": "bcb68bf87e35d927",
   "lastOpenFiles": [
-    "Ohjeet/kayttojarjestelmat/python/Untitled.md",
     "Ohjeet/kayttojarjestelmat/python/Testailua.md",
+    "Ohjeet/kayttojarjestelmat/python/Untitled.md",
     "conflict-files-obsidian-git.md",
     "current_version.txt",
     "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",

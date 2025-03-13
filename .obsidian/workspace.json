@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Kuinka tulostaa Hello World"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Kuinka tulostaa Hello World"
             }
           },
           {
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e010bde88e6ba83",
+  "active": "ad592abd471300d3",
   "lastOpenFiles": [
-    "Ohjeet/Python/Kuinka tulostaa Hello World.md",
+    "Ohjeet/kayttojarjestelmat",
     "README.md",
+    "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
     "conflict-files-obsidian-git.md",
     "Uusi Tekstitiedosto.txt",
     "readme.md"

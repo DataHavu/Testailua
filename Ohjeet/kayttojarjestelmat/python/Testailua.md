@@ -4,7 +4,7 @@ kategoriat:
   - kayttojarjestelmat
 tags:
 ---
-## Mitä tulette tekemään
+## Mitä tulette tekemään!
 Tässä ohjeessa opit, kuinka kirjoittaa ja suorittaa yksinkertainen Python-ohjelma, joka tulostaa "Hello, World!" -viestin konsoliin. Tämä on klassinen ensimmäinen ohjelma, jonka useimmat ohjelmoijat kirjoittavat aloittaessaan uuden ohjelmointikielen opiskelun.
 
 ## Tarvittavat välineet

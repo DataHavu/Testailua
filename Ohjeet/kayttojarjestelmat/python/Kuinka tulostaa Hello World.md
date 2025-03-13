@@ -1,8 +1,8 @@
 ---
 title: Kuinka tulostaa Hello World
 kategoriat:
-  - Python
-  - Ohjelmointi
+  - python
+  - kayttojarjestelmat
 tags:
   - tutorial
   - hello

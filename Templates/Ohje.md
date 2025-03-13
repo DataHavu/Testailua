@@ -1,6 +1,15 @@
 ---
-title: 
-kategoriat: 
+title: <% tp.file.title %>
+kategoriat:
+<%* 
+const path = tp.file.path(true);
+const folders = path.split('/');
+folders.shift(); // Remove the first folder
+folders.pop(); // Remove the file name
+folders.forEach((folder) => { 
+  tR += `  - ${folder}\n`; 
+});
+%>
 tags:
 ---
 Tässä ohjeessa kerromme, kuinka
@@ -14,4 +23,3 @@ Usein kysytyt kysymykset
   <summary>Windows 10</summary>
   Käyttöjärjestelmä.
 </details>
-

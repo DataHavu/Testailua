@@ -5,7 +5,7 @@ kategoriat:
 
 tags:
 ---
-Tässä ohjeessa kerromme, kuinka
+Tässä ohjeessa kerromme, kuinkas
 
 Vaatimukset:
 - Windows 10

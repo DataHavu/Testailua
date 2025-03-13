@@ -8,7 +8,7 @@ tags:
 - world
 title: Kuinka tulostaa Hello World
 ---
-Joo o Otsikko puuttuu
+Tulihan se sieltä
 Tämä pitäisi tulla Wordpressiin Osa 2
 
 ```

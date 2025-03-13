@@ -237,7 +237,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ohjeet/Testailua.md",
+                "file": "Ohjeet/kayttojarjestelmat/python/Testailua.md",
                 "mode": "source",
                 "source": false
               },
@@ -408,7 +408,7 @@
   "active": "bcb68bf87e35d927",
   "lastOpenFiles": [
     "Ohjeet/kayttojarjestelmat/python/Untitled.md",
-    "Ohjeet/Testailua.md",
+    "Ohjeet/kayttojarjestelmat/python/Testailua.md",
     "conflict-files-obsidian-git.md",
     "current_version.txt",
     "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",

@@ -1,16 +1,17 @@
 ---
-title: Kuinka tulostaa Hello World
 kategoriat:
-  - python
-  - kayttojarjestelmat
+- python
+- kayttojarjestelmat
 tags:
-  - tutorial
-  - hello
-  - world
+- tutorial
+- hello
+- world
+title: Kuinka tulostaa Hello World
 ---
-Tämä pitäisi olla githubissa
+
+Tämä pitäisi tulla Wordpressiin
 
 ```
 Print("Hello World")
 ```
-![](Pasted%20image%2020250312164448.png)
+![[Pasted image 20250313170913.png]]

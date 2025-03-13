@@ -9,9 +9,9 @@ tags:
 title: Kuinka tulostaa Hello World
 ---
 
-Tämä pitäisi tulla Wordpressiin
+Tämä pitäisi tulla Wordpressiin Osa 2
 
 ```
 Print("Hello World")
 ```
-![[Pasted image 20250313170913.png]]
+![](https://datahavu.fi/wp-content/uploads/2025/03/Pasted-image-20250313171856.png)

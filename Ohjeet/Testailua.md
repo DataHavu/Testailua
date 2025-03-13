@@ -1,5 +1,9 @@
- Ohje: Pythonin "Hello World" -ohjelman luominen
-
+---
+title: Testailua
+kategoriat:
+  - kayttojarjestelmat
+tags:
+---
 ## Mitä tulette tekemään
 Tässä ohjeessa opit, kuinka kirjoittaa ja suorittaa yksinkertainen Python-ohjelma, joka tulostaa "Hello, World!" -viestin konsoliin. Tämä on klassinen ensimmäinen ohjelma, jonka useimmat ohjelmoijat kirjoittavat aloittaessaan uuden ohjelmointikielen opiskelun.
 

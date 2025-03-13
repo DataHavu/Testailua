@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "64a9a06050767511",
+            "id": "db773f488db83cf8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad592abd471300d3",
+  "active": "9e010bde88e6ba83",
   "lastOpenFiles": [
-    "Uusi Tekstitiedosto.txt",
     "Ohjeet/Python/Kuinka tulostaa Hello World.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "Uusi Tekstitiedosto.txt",
     "readme.md"
   ]
 }

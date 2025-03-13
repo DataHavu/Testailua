@@ -1,3 +1,13 @@
+---
+title: Kuinka tulostaa Hello World
+kategoriat:
+  - Python
+  - Ohjelmointi
+tags:
+  - tutorial
+  - hello
+  - world
+---
 Tämä pitäisi olla githubissa
 
 ```

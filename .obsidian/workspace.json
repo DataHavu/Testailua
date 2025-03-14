@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
+                "file": "Ohjeet/kayttojarjestelmat/python/Testailua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kuinka tulostaa Hello World"
+              "title": "Testailua"
             }
           }
         ],
@@ -421,9 +421,9 @@
   },
   "active": "788e5bba58bdd4ee",
   "lastOpenFiles": [
+    "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
     "Kuvat/Pasted image 20250314104414.png",
     "Ohjeet/kayttojarjestelmat/TEsti 32.md",
-    "Ohjeet/kayttojarjestelmat/python/Kuinka tulostaa Hello World.md",
     "Ohjeet/kayttojarjestelmat/python/Testailua.md",
     "Ohjeet/Untitled.md",
     "Ohjeet/kayttojarjestelmat/python/Untitled.md",

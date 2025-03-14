@@ -1,9 +1,11 @@
 ---
-title: Testailua
+id: 4481
 kategoriat:
-  - kayttojarjestelmat
-tags:
+- kayttojarjestelmat
+tags: null
+title: Testailua
 ---
+
 ## Mitä tulette tekemään!
 Tässä ohjeessa opit, kuinka kirjoittaa ja suorittaa yksinkertainen Python-ohjelma, joka tulostaa "Hello, World!" -viestin konsoliin. Tämä on klassinen ensimmäinen ohjelma, jonka useimmat ohjelmoijat kirjoittavat aloittaessaan uuden ohjelmointikielen opiskelun.
 
@@ -57,4 +59,3 @@ Ennen kuin aloitat, varmista, että sinulla on seuraavat työkalut ja ohjelmat a
 ## Vaihe 3: Ohjelman tuloksen tarkastelu
 
 Kun suoritat ohjelman, konsolissa pitäisi näkyä seuraava tulostus:
-

@@ -1,4 +1,5 @@
 ---
+id: 4483
 kategoriat:
 - python
 - kayttojarjestelmat
@@ -8,14 +9,15 @@ tags:
 - world
 title: Kuinka tulostaa Hello World
 ---
-Tulihan se sieltä
+
+Tulihan se sieltä. VAI?
 Uusin testi 14.3.2025 10.47
 
 ```
 Print("Hello World")
 ```
 
-![ALT-teksti](Pasted%20image%2020250314104414.png)
+![ALT-teksti](https://datahavu.fi/wp-content/uploads/2025/03/Pasted-image-20250314104414.png)
 
 ## Asennus
 

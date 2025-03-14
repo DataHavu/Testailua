@@ -9,9 +9,14 @@ tags:
 title: Kuinka tulostaa Hello World
 ---
 Tulihan se sieltä
-Tämä pitäisi tulla Wordpressiin Osa 2
+Uusin testi 14.3.2025 10.47
 
 ```
 Print("Hello World")
 ```
-![](https://datahavu.fi/wp-content/uploads/2025/03/Pasted-image-20250313171856.png)
+
+![ALT-teksti](Pasted%20image%2020250314104414.png)
+
+## Asennus
+
+Lataa Windows iso muistitikulle ja käynnistä tietokone muistitikulta!

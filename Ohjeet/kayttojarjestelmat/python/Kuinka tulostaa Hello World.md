@@ -38,7 +38,7 @@ This is an example of a Markdown file with all available features. You can style
 
 ### Code Blocks
 
-Inline code: `print("Hello, world!")`
+Jos halutaan tulostaa Hello World: `print("Hello, world!")` Pitää silloin kirjoitaa tämä teksti.
 
 Code block:
 

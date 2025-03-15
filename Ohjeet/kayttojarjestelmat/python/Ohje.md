@@ -1,9 +1,11 @@
 ---
 id: 4528
 kategoriat:
-- kayttojarjestelmat
-- python
-tags: null
+  - kayttojarjestelmat
+  - python
+tags:
+  - aloittelija
+  - windows
 title: Virtuaaliympäristön käyttöönotto Pythonissa
 ---
 

@@ -7,7 +7,7 @@ tags: null
 title: Virtuaaliympäristön käyttöönotto Pythonissa
 ---
 
-Tässä ohjeessa kerromme, kuinka voit luoda ja käyttää virtuaaliympäristöä (`venv`) Python-projekteissasi Windows 10:llä. 
+Tässä ohjeessa kerromme, kuinka voit luoda ja käyttää virtuaaliympäristöä (`venv`) Python-projekteissasi Windows 10:llä.
 
 ## Vaatimukset:
 - Windows 10

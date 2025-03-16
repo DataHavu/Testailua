@@ -15,7 +15,6 @@ title: Python tulostus
 
 Tässä ohjeessa opit, kuinka luot Python-ohjelmassa `main`-funktion ja tulostat tekstin "Moikka Maailma!". `main`-funktion käyttäminen on hyvä tapa järjestää koodi selkeäksi ja helposti luettavaksi.
 
-  
 
 ---
 

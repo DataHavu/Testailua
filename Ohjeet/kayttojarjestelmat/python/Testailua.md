@@ -1,61 +1,136 @@
 ---
-id: 4481
-kategoriat:
-- kayttojarjestelmat
-tags: null
 title: Testailua
+kategoriat: 
+  - kayttojarjestelmat
+  - python
+
+tags: 
+julkaistu: false
+
 ---
-Viimeinen testi
-## Mitä tulette tekemään!
-Tässä ohjeessa opit, kuinka kirjoittaa ja suorittaa yksinkertainen Python-ohjelma, joka tulostaa "Hello, World!" -viestin konsoliin. Tämä on klassinen ensimmäinen ohjelma, jonka useimmat ohjelmoijat kirjoittavat aloittaessaan uuden ohjelmointikielen opiskelun.
+## Johdanto
 
-## Tarvittavat välineet
-Ennen kuin aloitat, varmista, että sinulla on seuraavat työkalut ja ohjelmat asennettuna:
+Tässä osiossa annetaan lyhyt yleiskuvaus siitä, mitä tämä ohje käsittelee ja sen tarkoituksesta.
 
-1. **Python** – Ohjelmointiympäristönä käytämme Pythonia. Asenna Python [täältä](https://www.python.org/downloads/) (valitse oikea versio käyttöjärjestelmäsi mukaan).
-2. **Tekstieditori** – Voit käyttää mitä tahansa tekstieditoria, kuten Notepad++, Visual Studio Code tai vaikka Pythonin oma IDLE. Tärkeintä on, että voit kirjoittaa ja tallentaa tekstiä.
+---
 
-## Vaihe 1: Python-ohjelman kirjoittaminen
+  
 
-1. **Avaa tekstieditori** ja luo uusi tiedosto.
-2. **Kirjoita seuraava koodi** tiedostoon:
+## Esivaatimukset
 
-    ```python
-    print("Hello, World!")
-    ```
+Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen aloittamista.
 
-3. **Tallenna tiedosto** nimellä `hello_world.py`. Huomaa, että tiedoston pääte täytyy olla `.py`, jotta Python tunnistaa sen ohjelmaksi.
+  
 
-## Vaihe 2: Ohjelman suorittaminen
+- Vaatimus 1
 
-### Windows:
-1. Avaa **Komentorivi (Command Prompt)**. Voit tehdä tämän etsimällä "cmd" Käynnistä-valikosta.
-2. Navigoi kansioon, johon tallensit `hello_world.py` -tiedoston. Käytä komentoa `cd` (Change Directory):
+- Vaatimus 2
 
-    ```
-    cd C:\polku\kansioon
-    ```
+- Vaatimus 3
 
-3. Suorita ohjelma kirjoittamalla:
+  
 
-    ```
-    python hello_world.py
-    ```
+## Vaiheittaiset ohjeet
 
-### MacOS / Linux:
-1. Avaa **Terminal**.
-2. Navigoi kansioon, jossa `hello_world.py` on tallennettu, käyttäen komentoa `cd`:
+  
 
-    ```
-    cd /polku/kansioon
-    ```
+### **Vaihe 1: [Vaiheen otsikko]**
 
-3. Suorita ohjelma kirjoittamalla:
+Kuvaus vaiheesta.
 
-    ```
-    python3 hello_world.py
-    ```
+  
 
-## Vaihe 3: Ohjelman tuloksen tarkastelu
+```bash
 
-Kun suoritat ohjelman, konsolissa pitäisi näkyä seuraava tulostus:
+# Esimerkkikomento
+
+komento --vaihtoehto arvo
+
+```
+
+  
+
+**Odottava tulos:**
+
+```bash
+
+Odottava järjestelmän vastaus tai tulos
+
+```
+
+  
+
+### **Vaihe 2: [Vaiheen otsikko]**
+
+Kuvaus vaiheesta.
+
+  
+
+```python
+
+# Esimerkki Python-koodista
+
+print("Hei, maailma!")
+
+```
+
+  
+
+**Odottava tulos:**
+
+```bash
+
+Hei, maailma!
+
+```
+
+  
+
+
+---
+
+  
+
+## Vianmääritys
+
+<details>
+  <summary>Ongelma 1: [Virheilmoitus tai ongelma]</summary>
+ Syy Selitys, miksi tämä tapahtuu.
+ 
+ Ratkaisu: Vaiheet ongelman korjaamiseksi.
+</details>
+<details>
+  <summary>Ongelma 2: [Virheilmoitus tai ongelma]</summary>
+ Syy Selitys, miksi tämä tapahtuu.
+ 
+ Ratkaisu: Vaiheet ongelman korjaamiseksi.
+</details>
+
+
+---
+  
+
+## UKK (Usein kysytyt kysymykset)
+
+<details> <summary>Kysymys 1: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details> <details> <summary>Kysymys 2: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details>
+
+  
+
+---
+  
+
+## Yhteenveto
+
+Tiivistä tärkeimmät kohdat ja mitä käyttäjän pitäisi olla saavuttanut.
+
+  
+
+---
+
+  
+
+## Lisäresurssit
+
+- [Linkki 1 - Virallinen dokumentaatio](#)
+
+- [Linkki 2 - Liittyvä ohje](#)

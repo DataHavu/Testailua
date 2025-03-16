@@ -1,7 +1,6 @@
 ---
-title: Untitled
-kategoriat: 
-  - kayttojarjestelmat
+title: TEMPLATE
+kategoriat:   - kayttojarjestelmat
   - python
 
 tags: 

@@ -1,13 +1,14 @@
 ---
-title: Python tulostus
-kategoriat: 
+id: 4561
+julkaistu: false
+kategoriat:
   - kayttojarjestelmat
   - python
-
-tags: 
-julkaistu: false
-
+tags:
+  - aloittelija
+title: Python tulostus
 ---
+
 ## Johdanto
 
   

@@ -36,6 +36,9 @@ Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen alo
 
   
 
+---
+
+  
 ## Vaiheittaiset ohjeet
 
   
@@ -92,7 +95,6 @@ Hei, maailma!
 
   
 
-
 ---
 
   
@@ -110,19 +112,22 @@ Hei, maailma!
  Syy Selitys, miksi tämä tapahtuu.
  
  Ratkaisu: Vaiheet ongelman korjaamiseksi.
-</details>
+ </details>.
 
+  
 
 ---
+
   
 
 ## UKK (Usein kysytyt kysymykset)
 
-<details> <summary>Kysymys 1: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details> <details> <summary>Kysymys 2: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details>
+<details> <summary>Kysymys 1: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details> <details> <summary>Kysymys 2: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details>.
 
   
 
 ---
+
   
 
 ## Yhteenveto

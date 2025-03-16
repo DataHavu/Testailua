@@ -67,8 +67,8 @@ Kuvaus vaiheesta.
 ```python
 
 # Esimerkki Python-koodista
-
-print("Hei, maailma!")
+def testi():
+	print("Hei, maailma!")
 
 ```
 

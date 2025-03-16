@@ -124,10 +124,8 @@ Hei, maailma!
 Tiivistä tärkeimmät kohdat ja mitä käyttäjän pitäisi olla saavuttanut.
 
   
-
 ---
 
-  
 
 ## Lisäresurssit
 

@@ -1,13 +1,13 @@
 ---
-title: TEMPLATE
-kategoriat: 
-  - kayttojarjestelmat
-  - python
-
-tags: 
+id: 4556
 julkaistu: false
-
+kategoriat:
+- kayttojarjestelmat
+- python
+tags: null
+title: TEMPLATE
 ---
+
 ## Johdanto
 
 Tässä osiossa annetaan lyhyt yleiskuvaus siitä, mitä tämä ohje käsittelee ja sen tarkoituksesta.
@@ -23,9 +23,7 @@ Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen alo
   
 
 - Vaatimus 1
-
 - Vaatimus 2
-
 - Vaatimus 3
 
   
@@ -130,5 +128,4 @@ Tiivistä tärkeimmät kohdat ja mitä käyttäjän pitäisi olla saavuttanut.
 ## Lisäresurssit
 
 - [Linkki 1 - Virallinen dokumentaatio](#)
-
 - [Linkki 2 - Liittyvä ohje](#)

@@ -138,3 +138,4 @@ KUVA!
 KUVA
 ![](https://datahavu.fi/wp-content/uploads/2025/03/Pasted-image-20250318151129.png)
 
+![](Pasted%20image%2020250318151728.png)

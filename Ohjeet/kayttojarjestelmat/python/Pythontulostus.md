@@ -7,6 +7,7 @@ kategoriat:
 tags:
   - aloittelija
 title: Python tulostus
+featured_image: Pasted%20image%2020250318122348.png
 ---
 
 ## Johdanto
@@ -153,26 +154,19 @@ Moikka Maailma!
   
 
 <details>
-
-  <summary>Ongelma 1: `SyntaxError: invalid syntax`</summary>
-
-  **Syy:** Koodissa voi olla kirjoitusvirhe tai Python-versiosi on liian vanha.
-
-  **Ratkaisu:** Tarkista, että koodi on kirjoitettu oikein ja käytä Python 3.x -versiota.
-
-</details>
-
+  <summary>Ongelma 1: `SyntaxError: invalid syntax`</summary>
+  **Syy.** Koodissa voi olla kirjoitusvirhe, väärin asetettu sulkumerkki, tai käytät vanhaa Python-versiota (Python 2.x).
   
+  **Ratkaisu:** Tarkista, että koodi on oikein kirjoitettu, että sulut ovat oikein ja käytä Python 3.x -versiota.
+</details>
 
 <details>
-
-  <summary>Ongelma 2: `NameError: name 'main' is not defined`</summary>
-
-  **Syy:** Funktiota `main` ei ole määritelty tai kutsuttu oikein.
-
-  **Ratkaisu:** Tarkista, että `main`-funktio on kirjoitettu ennen sen kutsumista.
-
+  <summary>Ongelma 2: `NameError: name 'main' is not defined`</summary>
+  **Syy:** Funktiota `main` ei ole määritelty tai se ei ole oikein määritelty ennen kutsumista.
+  
+  **Ratkaisu:** Varmista, että `main`-funktio on määritelty ja että se on kutsuttu oikeassa järjestyksessä ohjelman alussa.
 </details>
+
 
   
 
@@ -182,25 +176,14 @@ Moikka Maailma!
 
 ## UKK (Usein kysytyt kysymykset)
 
-  
-
-<details>
-
-  <summary>Miksi käytetään `if __name__ == "__main__"` -rakennetta?</summary>
-
-  Se varmistaa, että koodi suoritetaan vain, jos tiedosto ajetaan suoraan, eikä silloin kun se tuodaan moduulina toiseen ohjelmaan.
-
-</details>
-
-  
-
-<details>
-
-  <summary>Voiko `main`-funktion nimen muuttaa?</summary>
-
-  Kyllä, voit antaa sille minkä tahansa nimen, mutta `main` on yleisesti käytetty standardi.
-
-</details>
+  <details> 
+	  <summary>Miksi käytetään `if __name__ == "__main__"` -rakennetta?</summary>
+	   Se varmistaa, että koodi suoritetaan vain, jos tiedosto ajetaan suoraan, eikä silloin kun se tuodaan moduulina toiseen ohjelmaan. 
+   </details> 
+   
+   <details>
+    <summary>Voiko `main`-funktion nimen muuttaa?</summary>
+     Kyllä, voit antaa sille minkä tahansa nimen, mutta `main` on yleisesti käytetty standardi. </details>
 
   
 

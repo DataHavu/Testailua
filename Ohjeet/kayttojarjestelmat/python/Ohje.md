@@ -7,6 +7,7 @@ tags:
   - aloittelija
   - windows
 title: Virtuaaliympäristön käyttöönotto Pythonissa
+thumbnail:
 julkaistu: false
 ---
 
@@ -55,3 +56,5 @@ deactivate
   <summary>Windows 10</summary>
   Käyttöjärjestelmä.
 </details>
+
+![](Pasted%20image%2020250318120528.png)

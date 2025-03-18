@@ -14,7 +14,7 @@ featured_media: Pasted%20image%2020250318122348.png
 
   
 
-Tässä ohjeessa opit, kuinka luot Python-ohjelmassa `main`-funktion ja tulostat tekstin "Moikka Maailma!". `main`-funktion käyttäminen on hyvä tapa järjestää koodi selkeäksi ja helposti luettavaksi.
+Tässä ohjeessa opit, kuinka luot Python-ohjelmassa `main`-funktion ja tulostat tekstin "Moikka Maailma!". `main`-funktion käyttäminen on hyvä tapa järjestää koodi selkeäksi ja helposti luettavaksi.!
 
 
 ---

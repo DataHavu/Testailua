@@ -1,10 +1,15 @@
 ---
 title: <% tp.file.title %>
-kategoriat:
-  - <%* const path = tp.file.path(true);
-    const folders = path.split('/'); folders.shift(); // Remove the first folder
-    folders.pop(); // Remove the file name
-    tR += "\n" folders.forEach((folder) => { tR += `  - ${folder}\n`; }); %>
+kategoriat: <%* 
+  const path = tp.file.path(true);
+  const folders = path.split('/');
+  folders.shift(); // Remove the first folder
+  folders.pop(); // Remove the file name
+  tR += "\n"
+  folders.forEach((folder) => { 
+    tR += `  - ${folder}\n`; 
+  });
+  %>
 tags: 
 featured_media: 
 julkaistu: false

@@ -11,8 +11,6 @@ tags:
 title: Kuinka tulostaa Hello World
 ---
 
-MISTÄ NOI TULI?
-
 # Main Title (H1)
 
 Seuraavaksi kategoriat

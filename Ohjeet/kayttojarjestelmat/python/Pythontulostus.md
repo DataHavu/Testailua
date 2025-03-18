@@ -7,7 +7,7 @@ kategoriat:
 tags:
   - aloittelija
 title: Python tulostus
-featured_image: Pasted%20image%2020250318122348.png
+featured_media: Pasted%20image%2020250318122348.png
 ---
 
 ## Johdanto

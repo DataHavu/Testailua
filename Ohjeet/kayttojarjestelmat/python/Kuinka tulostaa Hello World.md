@@ -57,5 +57,5 @@ Print("Hello World")
 
 KUVA!
 ![ALT-teksti](https://datahavu.fi/wp-content/uploads/2025/03/Pasted-image-20250314104414.png)
-KUVA3
-![](Pasted%20image%2020250318135826.png)
+KUVA3)
+![](Pasted%20image%2020250318143942.png)

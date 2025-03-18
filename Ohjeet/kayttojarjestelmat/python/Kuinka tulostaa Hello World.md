@@ -12,6 +12,19 @@ title: Kuinka tulostaa Hello World
 ---
 
 ---
+featured_media: Pasted%20image%2020250318122348.png
+id: 4483
+kategoriat:
+- python
+- kayttojarjestelmat
+tags:
+- tutorial
+- hello
+- world
+title: Kuinka tulostaa Hello World
+---
+
+---
 id: 4483
 kategoriat:
   - python
@@ -70,5 +83,5 @@ Print("Hello World")
 
 KUVA!
 ![ALT-teksti](https://datahavu.fi/wp-content/uploads/2025/03/Pasted-image-20250314104414.png)
-KUVA3)!!
-![](Pasted%20image%2020250318150220.png)
+KUVA
+![](Pasted%20image%2020250318150348.png)

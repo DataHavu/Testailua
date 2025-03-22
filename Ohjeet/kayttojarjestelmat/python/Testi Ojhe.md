@@ -10,4 +10,4 @@ title: Testi Ojhe
 ---
 ## Testi miksei toimi??!!
 
-![](Pasted%20image%2020250322150023.png)
+![](Pasted%20image%2020250322151514.png)

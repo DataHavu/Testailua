@@ -1,23 +1,30 @@
 ---
-featured_media: Pasted%20image%2020250318170530.png
-id: 4611
-julkaistu: false
+title: Testi Ojhe
 kategoriat:
-- kayttojarjestelmat
-- python
-tags: null
-title: Testi 18.3.2025
+  - kayttojarjestelmat
+  - python
+tags: 
+featured_media: Pasted%20image%2020250322144624.png
+julkaistu: false
 ---
-
 ## Johdanto
 
-Juu, joku ohje vaan
+Vilin testi ohje!
+
+---
+
+  
+## Esivaatimukset
+
+Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen aloittamista.
 
   
 
-## Esivaatimukset
+- Vaatimus 1
 
-Tietokone
+- Vaatimus 2
+
+- Vaatimus 3
 
   
 
@@ -34,11 +41,11 @@ Kuvaus vaiheesta.
 
   
 
-```bash
+```python
 
 # Esimerkkikomento
 
-komento --vaihtoehto arvo
+print("Moikka VIli")
 
 ```
 
@@ -51,7 +58,7 @@ komento --vaihtoehto arvo
 Odottava järjestelmän vastaus tai tulos
 
 ```
-
+![](Pasted%20image%2020250322144532.png)
   
 
 ### **Vaihe 2: [Vaiheen otsikko]**
@@ -78,7 +85,7 @@ Hei, maailma!
 
 ```
 
-
+  
 
 ---
 

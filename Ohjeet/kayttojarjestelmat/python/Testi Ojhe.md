@@ -1,5 +1,5 @@
 ---
-featured_media: Pasted%20image%2020250322144624.png
+featured_media: 
 id: 4616
 julkaistu: false
 kategoriat:
@@ -12,7 +12,7 @@ title: Testi Ojhe
 ## Johdanto
 
 Vilin testi ohje!
-![](Pasted%20image%2020250322145817.png)
+
 ---
 
   
@@ -20,7 +20,7 @@ Vilin testi ohje!
 
 Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen aloittamista.
 
-  
+  ![](Pasted%20image%2020250322145908.png)
 
 - Vaatimus 1
 

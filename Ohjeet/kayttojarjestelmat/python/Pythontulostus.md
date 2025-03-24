@@ -29,9 +29,29 @@ Ennen kuin aloitat, varmista, että sinulla on seuraavat asiat valmiina:!
 
 > Testi quote
 
-TESTAILUA
+note
+> [!NOTE]
+> **VAARA!** Tämä on vakava varoitus.
+
+
+tip
+> [!TIP]
+> **VAARA!** Tämä on vakava varoitus.
+
+
+important
+> [!IMPORTANT]
+> **VAARA!** Tämä on vakava varoitus.
+
+
+warning
+> [!WARNING]
+> **VAARA!** Tämä on vakava varoitus.
+
+vaara
 > [!CAUTION]
 > **VAARA!** Tämä on vakava varoitus.
+
 
 - Pythonin asennettuna tietokoneellesi (versio 3.x suositeltava)
 

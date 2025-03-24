@@ -30,7 +30,7 @@ Ennen kuin aloitat, varmista, että sinulla on seuraavat asiat valmiina:!
 > Testi quote
 
 TESTAILUA
-> [!important]
+> [!CAUTION]
 > **VAARA!** Tämä on vakava varoitus.
 
 - Pythonin asennettuna tietokoneellesi (versio 3.x suositeltava)

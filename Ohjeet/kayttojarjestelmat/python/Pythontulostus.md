@@ -33,9 +33,6 @@ TESTAILUA
 > [!important]
 > **VAARA!** Tämä on vakava varoitus.
 
-> [!important]
-> **VAARA!** Tämä on vakava varoitus.
-
 - Pythonin asennettuna tietokoneellesi (versio 3.x suositeltava)
 
 - Tekstieditori, kuten VS Code, PyCharm tai vaikka Muistio

@@ -29,6 +29,9 @@ Ennen kuin aloitat, varmista, että sinulla on seuraavat asiat valmiina:
 
 > Testi quote
 
+> [!NOTE]
+> This is a note
+
 - Pythonin asennettuna tietokoneellesi (versio 3.x suositeltava)
 
 - Tekstieditori, kuten VS Code, PyCharm tai vaikka Muistio

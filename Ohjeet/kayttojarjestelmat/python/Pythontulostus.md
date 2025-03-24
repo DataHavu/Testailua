@@ -30,7 +30,10 @@ Ennen kuin aloitat, varmista, että sinulla on seuraavat asiat valmiina:
 > Testi quote
 
 TESTAILUA
-> [!DANGER]
+> [!important]
+> **VAARA!** Tämä on vakava varoitus.
+
+> [!important]
 > **VAARA!** Tämä on vakava varoitus.
 
 - Pythonin asennettuna tietokoneellesi (versio 3.x suositeltava)
@@ -39,7 +42,6 @@ TESTAILUA
 
 - Perustiedot Python-ohjelmoinnista (esim. tulostuskomennon `print` käyttäminen)
 
-  
 
 ---
 

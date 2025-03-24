@@ -1,13 +1,13 @@
 ---
-featured_media: Pasted%20image%2020250318151508.png
+featured_media: 
 id: 4483
 kategoriat:
-- python
-- kayttojarjestelmat
+  - python
+  - kayttojarjestelmat
 tags:
-- tutorial
-- hello
-- world
+  - tutorial
+  - hello
+  - world
 title: Kuinka tulostaa Hello World
 ---
 

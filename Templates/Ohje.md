@@ -20,8 +20,6 @@ Tässä osiossa annetaan lyhyt yleiskuvaus siitä, mitä tämä ohje käsittelee
 
 ---
 
-  
-
 ## Esivaatimukset
 
 Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen aloittamista.
@@ -67,7 +65,19 @@ Odottava järjestelmän vastaus tai tulos
 
 ```
 
+#### **Alavaihe 1.1: [Vaiheen otsikko]**
+
+  Kuvaus vaiheesta.
+
   
+
+```python
+
+# Esimerkki Python-koodista
+
+print("Hei, maailma!")
+
+```
 
 ### **Vaihe 2: [Vaiheen otsikko]**
 
@@ -112,8 +122,7 @@ Hei, maailma!
  Syy Selitys, miksi tämä tapahtuu.
  
  Ratkaisu: Vaiheet ongelman korjaamiseksi.
- </details>.
-
+ </details>
   
 
 ---
@@ -122,7 +131,7 @@ Hei, maailma!
 
 ## UKK (Usein kysytyt kysymykset)
 
-<details> <summary>Kysymys 1: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details> <details> <summary>Kysymys 2: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details>.
+<details> <summary>Kysymys 1: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details> <details> <summary>Kysymys 2: [Usein kysytty kysymys]</summary> Vastaus kysymykseen. </details>
 
   
 

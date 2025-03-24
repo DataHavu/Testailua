@@ -27,7 +27,7 @@ Tässä ohjeessa opit, kuinka luot Python-ohjelmassa `main`-funktion ja tulostat
 
 Ennen kuin aloitat, varmista, että sinulla on seuraavat asiat valmiina:
 
-  
+    > Testi quote
 
 - Pythonin asennettuna tietokoneellesi (versio 3.x suositeltava)
 

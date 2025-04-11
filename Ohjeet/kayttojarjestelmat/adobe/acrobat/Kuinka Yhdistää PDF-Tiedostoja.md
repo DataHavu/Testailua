@@ -31,7 +31,7 @@ Tässä ohjeessa kerromme kuinka voit yhdistää ilmaiseksi kaksi tai useampaa p
 
 Mene osoitteeseen [https://www.adobe.com/fi/acrobat/online/merge-pdf.html](https://www.adobe.com/fi/acrobat/online/merge-pdf.html)
 
-Valitse Adoben sivuilla Valitse tiedostot!
+Valitse Adoben sivuilla Valitse tiedostot.
   
 ![](https://datahavu.fi/wp-content/uploads/2024/02/AdobeAcrobatPDF-tiedostojenYhdistaminen-1024x439.jpg)
 

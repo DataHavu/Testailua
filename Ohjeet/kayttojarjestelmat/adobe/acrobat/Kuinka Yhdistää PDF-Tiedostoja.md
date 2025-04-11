@@ -11,7 +11,7 @@ julkaistu: false
 ---
 ## Johdanto
 
-Tässä ohjeessa kerromme kuinka voit yhdistää ilmaiseksi kaksi tai useampaa pdf-tiedostoa yhdeksi tiedostoksi käyttämällä Adobe Acrobat ohjelmaa.
+Tässä ohjeessa kerromme kuinka voit yhdistää ilmaiseksi kaksi tai useampaa pdf-tiedostoa yhdeksi tiedostoksi käyttämällä Adobe Acrobat ohjelmaa. gg
 
 ---
 

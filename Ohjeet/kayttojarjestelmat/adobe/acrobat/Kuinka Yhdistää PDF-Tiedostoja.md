@@ -34,7 +34,8 @@ Mene osoitteeseen [https://www.adobe.com/fi/acrobat/online/merge-pdf.html](http
 Valitse Adoben sivuilla Valitse tiedostot.
   
 ![](https://datahavu.fi/wp-content/uploads/2024/02/AdobeAcrobatPDF-tiedostojenYhdistaminen-1024x439.jpg)
-  
+
+Valitse PDF-tiedostot jotka haluat yhdistää ja paina avaa.
 
 ![](https://datahavu.fi/wp-content/uploads/2024/02/ValitsePDF-tiedostot-1024x453.png)
 
@@ -60,28 +61,6 @@ Voit nyt ladata yhdistetyn PDF-tiedoston painamalla Lataa painiketta.
 ![](https://datahavu.fi/wp-content/uploads/2024/02/LataayhdistettyPDF-1024x464.png)
 
 ---
-
-  
-
-## Vianmääritys
-
-<details>
-  <summary>Ongelma 1: [Virheilmoitus tai ongelma]</summary>
- Syy Selitys, miksi tämä tapahtuu.
- 
- Ratkaisu: Vaiheet ongelman korjaamiseksi.
-</details>
-<details>
-  <summary>Ongelma 2: [Virheilmoitus tai ongelma]</summary>
- Syy Selitys, miksi tämä tapahtuu.
- 
- Ratkaisu: Vaiheet ongelman korjaamiseksi.
- </details>
-  
-
----
-
-  
 
 ## UKK (Usein kysytyt kysymykset)
 

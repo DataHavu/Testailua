@@ -3,11 +3,10 @@ featured_media: https://datahavu.fi/wp-content/uploads/2024/02/Adobe_Acrobat_log
 id: 4680
 julkaistu: false
 kategoriat:
-- kayttojarjestelmat
-- adobe
-- acrobat
+  - adobe
+  - acrobat
 tags:
-- aloittelija
+  - aloittelija
 title: Kuinka Yhdistää PDF-Tiedostoja
 ---
 

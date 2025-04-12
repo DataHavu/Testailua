@@ -47,7 +47,7 @@ Voit asentaa Windows asennustyökalun osoitteesta: [https://www.microsoft.com/f
 
 Valitse sivulla Lataa työkalu nyt
 
-![]![](Pasted%20image%2020250412163651.png)
+![]![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250412163651.png)
   
 Kun työkalu on ladannut, avaa se.
 
@@ -205,16 +205,4 @@ Huomioi kuitenkin, että Microsoftin tuki Windows 10:lle päättyy 14.10.2025, m
 
 ## Yhteenveto
 
-Tiivistä tärkeimmät kohdat ja mitä käyttäjän pitäisi olla saavuttanut.
-
-  
-
----
-
-  
-
-## Lisäresurssit
-
-- [Linkki 1 - Virallinen dokumentaatio](#)
-
-- [Linkki 2 - Liittyvä ohje](#)
+Olet nyt asentanut Windows 10:pin koneellesi. Voit nyt alkaa latailemaan tarvitsemiasi sovelluksia ja pelejä.

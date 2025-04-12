@@ -1,6 +1,6 @@
 ---
 featured_media: Pasted%20image%2020250412130057.png
-id: 4483
+id: 
 kategoriat:
   - python
   - kayttojarjestelmat

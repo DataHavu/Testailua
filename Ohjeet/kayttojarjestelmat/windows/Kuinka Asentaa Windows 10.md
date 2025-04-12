@@ -47,7 +47,7 @@ Voit asentaa Windows asennustyökalun osoitteesta: [https://www.microsoft.com/f
 
 Valitse sivulla Lataa työkalu nyt
 
-![]![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250412163651.png)
+![](https://datahavu.fi/wp-content/uploads/2025/04/Pasted-image-20250412163651.png)
   
 Kun työkalu on ladannut, avaa se.
 

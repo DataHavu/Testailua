@@ -14,7 +14,7 @@ id: 3272
 Tässä ohjeessa kerromme kuinka voit asentaa Windows 10 käyttöjärjestelmän tietokoneelle USB-muistitikulta.
 
 > [!WARNING]
->**Windows 10:n tuki päättyy lokakuussa 2025**
+>**Windows 10:n tuki päättyy lokakuussa 2025.**
 > 14.10.2025 jälkeen Microsoft ei enää tarjoa Windows 10:lle ilmaisia ohjelmistopäivityksiä, teknistä tukea tai tietoturvakorjauksia.
 >
 ---

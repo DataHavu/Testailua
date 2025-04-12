@@ -1,14 +1,16 @@
 ---
-title: Kuinka Yhdistää PDF-Tiedostoja
-kategoriat:
-  - kayttojarjestelmat
-  - adobe
-  - acrobat
-tags:
-  - aloittelija
 featured_media: https://datahavu.fi/wp-content/uploads/2024/02/Adobe_Acrobat_logo-600x600.png
+id: 4680
 julkaistu: false
+kategoriat:
+- kayttojarjestelmat
+- adobe
+- acrobat
+tags:
+- aloittelija
+title: Kuinka Yhdistää PDF-Tiedostoja
 ---
+
 ## Johdanto
 
 Tässä ohjeessa kerromme kuinka voit yhdistää ilmaiseksi kaksi tai useampaa pdf-tiedostoa yhdeksi tiedostoksi käyttämällä Adobe Acrobat ohjelmaa.
@@ -27,7 +29,7 @@ Tässä ohjeessa kerromme kuinka voit yhdistää ilmaiseksi kaksi tai useampaa p
 
   
 
-### **Vaihe 1: Adobe Acrobatilla PDF-tiedostojen yhdistäminen**
+### Vaihe 1: Adobe Acrobatilla PDF-tiedostojen yhdistäminen
 
 Mene osoitteeseen [https://www.adobe.com/fi/acrobat/online/merge-pdf.html](https://www.adobe.com/fi/acrobat/online/merge-pdf.html)
 

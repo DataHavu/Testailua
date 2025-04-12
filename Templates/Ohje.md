@@ -41,7 +41,7 @@ Listaa tarvittavat työkalut, riippuvuudet tai taidot, jotka tarvitaan ennen alo
 
   
 
-### **Vaihe 1: [Vaiheen otsikko]**
+### Vaihe 1: [Vaiheen otsikko]
 
 Kuvaus vaiheesta.
 

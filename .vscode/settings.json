@@ -1,0 +1,6 @@
+{
+    "pasteImage.path": "images",
+"pasteImage.basePath": "${workspaceRoot}",
+"pasteImage.prefix": "/images"
+
+}

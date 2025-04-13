@@ -206,3 +206,5 @@ Huomioi kuitenkin, että Microsoftin tuki Windows 10:lle päättyy 14.10.2025, m
 ## Yhteenveto
 
 Olet nyt asentanut Windows 10:pin koneellesi. Voit nyt alkaa latailemaan tarvitsemiasi sovelluksia ja pelejä.
+
+![alt text](../../../Kuvat/image.png)
